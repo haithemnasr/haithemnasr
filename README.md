@@ -28,17 +28,6 @@
 
 </div>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=haithemnasr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haithemnasr&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=haithemnasr&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
 ## Contact
 
 <div align="center">
