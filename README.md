@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![Languages](https://skillicons.dev/icons?i=c,cpp,dart,python,js,ts,java&theme=dark)
+![Languages](https://skillicons.dev/icons?i=c,cpp,dart,kotlin,python,js,ts,java&theme=dark)
 
 ![Mobile & Web](https://skillicons.dev/icons?i=flutter,firebase,angular,spring,html,css&theme=dark)
 
